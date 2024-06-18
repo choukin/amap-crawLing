@@ -1,0 +1,179 @@
+{
+  "cookies": [
+    {
+      "name": "acw_tc",
+      "value": "3577c26d411a949718695564788c0c96382dfa22ca0962e618309483235252e3",
+      "domain": "www.xiaohongshu.com",
+      "path": "/",
+      "expires": 1715598637.418874,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "abRequestId",
+      "value": "bae50be5-97cc-5703-a6f3-19848d180a1f",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1747132837.419045,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webBuild",
+      "value": "4.15.2",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xsecappid",
+      "value": "xhs-pc-web",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1747132837,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "a1",
+      "value": "18f718a43b9t94jo3ulsl9ukeu1h65fct8cz59rql30000374346",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1747132837,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webId",
+      "value": "afb5e058b8c841ccf9706267cea7afe4",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1747132837,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "websectiga",
+      "value": "cffd9dcea65962b05ab048ac76962acee933d26157113bb213105a116241fa6c",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1715856038,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sec_poison_id",
+      "value": "1f6cb2dc-0365-4950-843b-3a21db9ad6dd",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1715597442,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "acw_tc",
+      "value": "6e51f96e46cd8d711de60ae845ecac403d4a754f75026c256f2e8d475bfb56ee",
+      "domain": "edith.xiaohongshu.com",
+      "path": "/",
+      "expires": 1715598638.161888,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "web_session",
+      "value": "030037a172ba520bcbe06aa839214a74196b27",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1747132838.711115,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gid",
+      "value": "yYiWyY04j49iyYiWyY04qYjFDj9j4Vlq71M1SA1j7Td7yuq8xK2iS2888qW4q4K8SY2JDJJj",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1750156839.14811,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "unread",
+      "value": "{%22ub%22:%22663535e6000000001e02c96e%22%2C%22ue%22:%22663454b7000000001e0349b5%22%2C%22uc%22:25}",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.xiaohongshu.com",
+      "localStorage": [
+        {
+          "name": "b1b1",
+          "value": "1"
+        },
+        {
+          "name": "XHS_STRATEGY_BOX",
+          "value": "{\"firstVisit-\":false}"
+        },
+        {
+          "name": "guide-ImageNoteGuide",
+          "value": "{\"neverShowAgainFlag\":false,\"hasShownFlag\":false,\"lastShowTime\":1715596837512}"
+        },
+        {
+          "name": "sdt_source_storage_key",
+          "value": "{\"url\":\"https://fe-video-qc.xhscdn.com/fe-platform/7a700537086390bf42ed95a3c3b675820f791299.js\",\"reportUrl\":\"/api/sec/v1/shield/webprofile\",\"desVersion\":\"2\",\"validate\":true,\"commonPatch\":[\"/fe_api/burdock/v2/note/post\",\"/api/sns/web/v1/comment/post\",\"/api/sns/web/v1/note/like\",\"/api/sns/web/v1/note/collect\",\"/api/sns/web/v1/user/follow\",\"/api/sns/web/v1/feed\",\"/api/sns/web/v1/login/activate\",\"/api/sns/web/v1/note/metrics_report\",\"/api/redcaptcha\",\"/api/store/jpd/main\",\"/phoenix/api/strategy/getAppStrategy\"],\"signUrl\":\"https://fe-video-qc.xhscdn.com/fe-platform/6e0d0a976c31ec4cf07d8dfaea68aefe79a8c678.js\",\"signVersion\":\"1\"}"
+        },
+        {
+          "name": "xhs-pc-theme",
+          "value": "system"
+        },
+        {
+          "name": "MF_STATISTICS",
+          "value": "{\"timestamp\":1715596837512,\"visitTimes\":1,\"readFeedCount\":0}"
+        },
+        {
+          "name": "HOME_FEED_CURSOR_SCORE",
+          "value": "1.7155968389700022E9"
+        },
+        {
+          "name": "last_tiga_update_time",
+          "value": "1715596838148"
+        },
+        {
+          "name": "p1",
+          "value": "1"
+        },
+        {
+          "name": "NEW_XHS_ABTEST_REPORT_KEY",
+          "value": "{\"afb5e058b8c841ccf9706267cea7afe46641ee26000000001b038e97bae50be5-97cc-5703-a6f3-19848d180a1f\":\"2024-05-13\"}"
+        },
+        {
+          "name": "b1",
+          "value": "I38rHdgsjopgIvesdVwgIC+oIELmBZ5e3VwXLgFTIxS3bqwErFeexd0ekncAzMFYnqthIhJeSnMDKutRI3KsYorWHPtGrbV0P9WfIi/eWc6eYqtyQApPI37ekmR1QL+5Ii6sdnoeSfqYHqwl2qt5B0DoIvMzOZQqZVw7IxOeTqwr4qtiIkrOIi/skccxICLdI3Oe0utl2ADZsLveDSKsSPw5IEvsiutJOqw8BVwfPpdeTDWOIx4VIiu6ZPwbPut5IvlaLbgs3qtxIxes1VwHIkumIkIyejgsY/WTge7sjutKrZgedWI9gfKeYmqnI3gsfVtnIEeejutvmzi1NoDNI3deTutS/SKe6o4PIhbsIERqQU8FI3lqQW88IizuBVwAIvGF4BdsYZes6qwxIvJeffKe0Ap8Ii6e6rZ3yutiIkos17vskY/siuwce75sSPtTI3VbZg6sWPtEzgdsWVt+I3kcIxmdsqtqoqtengFbqrOeYjgsxutgIkdeY/AskFRYIk/sWbvskdEXIh0skuwDIEq5LVtDPuw9Iv6s6VwAIk3e6Vw5Ih3sjuw5NPw2oVwuICckI3HrN9VWJcAe1utjIEqtIhNeDPwgZmltwrKsDBF="
+        },
+        {
+          "name": "UNREAD_NOTE_INFO",
+          "value": "{\"cachedFeeds\":[],\"unreadBeginNoteId\":\"663535e6000000001e02c96e\",\"unreadEndNoteId\":\"663454b7000000001e0349b5\",\"unreadNoteCount\":25,\"timestamp\":0}"
+        }
+      ]
+    }
+  ]
+}

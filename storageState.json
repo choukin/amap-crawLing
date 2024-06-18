@@ -1,0 +1,191 @@
+{
+  "cookies": [
+    {
+      "name": "abRequestId",
+      "value": "5730dbe9-4ca1-5157-9afa-c59e42d58bc4",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1742538743.283164,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xsecappid",
+      "value": "xhs-pc-web",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1742540944,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "a1",
+      "value": "18e5fb5f380k75ilzparfljuwf8ieqkelu25d38aw30000339166",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1742538743,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webId",
+      "value": "22f4417e718ae187627ad9baddaac5ba",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1742538743,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gid",
+      "value": "yYd2iD2iYJ1dyYd2iD2iq7qYY8TW231uU0FiJ0E1V7EiY2q83dATdf888qqjyKK8YfjfjS0d",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1745564707.398499,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "acw_tc",
+      "value": "14e933392cc17ee62e7fd8e12dd6550ef93efc82a577acee05200df127228bd9",
+      "domain": "edith.xiaohongshu.com",
+      "path": "/",
+      "expires": 1711006346.282051,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webBuild",
+      "value": "4.6.0",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cache_feeds",
+      "value": "[]",
+      "domain": "www.xiaohongshu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "web_session",
+      "value": "040069726b2b5043f0004394ce374bb9d658c4",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1742540714.569041,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "websectiga",
+      "value": "2a3d3ea002e7d92b5c9743590ebd24010cf3710ff3af8029153751e41a6af4a3",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1711264026,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sec_poison_id",
+      "value": "7a2db45a-5908-4c49-9ba7-fe39a887771e",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": 1711005431,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "unread",
+      "value": "{%22ub%22:%2265e91fe4000000000600cb16%22%2C%22ue%22:%2265f6fbc8000000001203f2bb%22%2C%22uc%22:31}",
+      "domain": ".xiaohongshu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.xiaohongshu.com",
+      "localStorage": [
+        {
+          "name": "b1b1",
+          "value": "1"
+        },
+        {
+          "name": "XHS_STRATEGY_BOX",
+          "value": "{\"firstVisit-\":false}"
+        },
+        {
+          "name": "guide-ImageNoteGuide",
+          "value": "{\"neverShowAgainFlag\":false,\"hasShownFlag\":false,\"lastShowTime\":1711002743379}"
+        },
+        {
+          "name": "sdt_source_storage_key",
+          "value": "{\"signUrl\":\"https://fe-video-qc.xhscdn.com/fe-platform/6e0d0a976c31ec4cf07d8dfaea68aefe79a8c678.js\",\"signVersion\":\"1\",\"url\":\"https://fe-video-qc.xhscdn.com/fe-platform/7a700537086390bf42ed95a3c3b675820f791299.js\",\"reportUrl\":\"/api/sec/v1/shield/webprofile\",\"desVersion\":\"2\",\"validate\":true,\"commonPatch\":[\"/fe_api/burdock/v2/note/post\",\"/api/sns/web/v1/comment/post\",\"/api/sns/web/v1/note/like\",\"/api/sns/web/v1/note/collect\",\"/api/sns/web/v1/user/follow\",\"/api/sns/web/v1/feed\",\"/api/sns/web/v1/login/activate\",\"/api/sns/web/v1/note/metrics_report\",\"/api/redcaptcha\",\"/api/store/jpd/main\",\"/phoenix/api/strategy/getAppStrategy\"]}"
+        },
+        {
+          "name": "guide-COPYIMGGUIDE",
+          "value": "{\"neverShowAgainFlag\":false,\"hasShownFlag\":false,\"lastShowTime\":1711002743379}"
+        },
+        {
+          "name": "xhs-pc-theme",
+          "value": "system"
+        },
+        {
+          "name": "MF_STATISTICS",
+          "value": "{\"timestamp\":1711004943528,\"visitTimes\":7,\"readFeedCount\":0}"
+        },
+        {
+          "name": "HOME_FEED_CURSOR_SCORE",
+          "value": "1.7110047159700022E9"
+        },
+        {
+          "name": "last_tiga_update_time",
+          "value": "1711004826704"
+        },
+        {
+          "name": "guide-FULLSCREEN-BOX-SHOWED",
+          "value": "{\"neverShowAgainFlag\":false,\"hasShownFlag\":false,\"lastShowTime\":1711002743379}"
+        },
+        {
+          "name": "p1",
+          "value": "7"
+        },
+        {
+          "name": "xhs-pc-search-history-57fe18116a6a6924b611a056",
+          "value": "[]"
+        },
+        {
+          "name": "NEW_XHS_ABTEST_REPORT_KEY",
+          "value": "{\"22f4417e718ae187627ad9baddaac5ba57fe18116a6a6924b611a0565730dbe9-4ca1-5157-9afa-c59e42d58bc4\":\"2024-03-21\"}"
+        },
+        {
+          "name": "b1",
+          "value": "I38rHdgsjopgIvesdVwgIC+oIELmBZ5e3VwXLgFTIxS3bqwErFeexd0ekncAzMFYnqthIhJeSnMDKutRI3KsYorWHPtGrbV0P9WfIi/eWc6eYqtyQApPI37ekmR1QL+5Ii6sdnoeSfqYHqwl2qt5BfqJIvFbNLQ+ZPw7Ixdsxuwr4qtkIkrwIi/skZc3ICLdI3Oe0utl2ADZsL5eDSJsSPwXIEvsiVtJOPw8BuwfPpdeTDWOIx4VIiu6ZPwbJqt0IxHyoMAeVutWIvvs6qtnIi+KIEzaeo6s09G1e05sYuttrboe0FFWp9Ke0YqQIx/eDPwmIiJefqtAzZVVOsuwI3deTutA/Yve67pKIhTcIEYnHgZ0I3k28IYgIEhIBuwSIChV+/Kedp5e3qtuI36sja7s0fH4Ik5eirm5KqwfIiKsTove1SKs3PwPmeOedqwVI34LaU6eSqwkzgdsWVt+I3kKIxmdsqtmrPtBnnI4mAAsDfgexVwbIhJednOsxzZ="
+        },
+        {
+          "name": "UNREAD_NOTE_INFO",
+          "value": "{\"cachedFeeds\":[],\"unreadBeginNoteId\":\"65e91fe4000000000600cb16\",\"unreadEndNoteId\":\"65f6fbc8000000001203f2bb\",\"unreadNoteCount\":31,\"timestamp\":0}"
+        }
+      ]
+    }
+  ]
+}
